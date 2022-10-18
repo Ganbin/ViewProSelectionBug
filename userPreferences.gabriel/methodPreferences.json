@@ -1,0 +1,74 @@
+{
+	"Sources/Methods/Launch.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-10-18T10:30:01.022Z"
+	},
+	"Sources/Forms/ViewPro/ObjectMethods/ViewProArea.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-10-17T13:27:27.882Z"
+	},
+	"Sources/Forms/ViewPro/ObjectMethods/vp.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-10-18T10:27:34.468Z"
+	},
+	"Sources/Forms/ViewPro/method.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-10-18T10:27:17.486Z"
+	},
+	"Sources/Methods/NewVP.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-10-18T10:27:26.483Z"
+	},
+	"Sources/Forms/ViewProAlone/ObjectMethods/vp.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-10-18T10:30:01.014Z"
+	},
+	"Sources/Methods/Method3.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-10-18T12:58:30.742Z"
+	},
+	"Sources/Methods/Worker.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-10-18T12:58:30.023Z"
+	}
+}
